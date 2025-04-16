@@ -1,3 +1,4 @@
+![logo](https://github.com/krishna-mohapatra/krishna-mohapatra/blob/main/Cover%20Page.png)
 <h1 align="center">Hi 👋, I'm Krishna Sagar Mohapatra</h1>
 <h3 align="center">Data Analyst | Delivering Insights that Drive Growth</h3>
 
