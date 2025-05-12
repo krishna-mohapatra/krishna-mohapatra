@@ -19,7 +19,5 @@
 <p align="left"> <a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="Excel" width="50" height="50"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-uiux-app-logo-design-iconic-sql-database-business-png-image_11049889.png" alt="SQL" width="50" height="50"/> </a>  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://datawarehouse.io/wp-content/uploads/2019/06/PowerBI-logo-new-1.png" alt="Power BI" width="50" height="50"/> </a><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/tableau-tableau-software-11564230575eotdec4m6e.png" width="50" height="50"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-mohapatra&show_icons=true&locale=en&layout=compact" alt="krishna-mohapatra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-mohapatra&show_icons=true&locale=en" alt="krishna-mohapatra" /></p>
 
