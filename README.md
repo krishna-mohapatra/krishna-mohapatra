@@ -1,6 +1,6 @@
 ![logo](https://github.com/krishna-mohapatra/krishna-mohapatra/blob/main/Cover%20Page.png)
 <h1 align="center">Hi 👋, I'm Krishna Sagar Mohapatra</h1>
-<h3 align="center">Data Analyst | Delivering Insights that Drive Growth</h3>
+<h3 align="center">Aspiring Data Analyst with a strong analytical mindset and hands-on experience in SQL, Excel, Power BI, and Tableau. Passionate about turning data into insights to solve real-world business problems and support strategic decision-making</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFiNXhmY2N1aG5oZHJ5anNtdWtxejFkem9zZmllZGp5b2NlMjhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
