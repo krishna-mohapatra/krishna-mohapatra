@@ -14,7 +14,7 @@
 
 
 ## 📌 About Me
-- 📊 Data Analyst with 3+ years of experience in SQL, Excel, Power BI, and Tableau. Skilled in data cleaning, ETL, and building interactive dashboards to deliver actionable business insights and support data-driven decision-making.
+- Power BI Developer/Data Analyst with 3+ years of experience in SQL, Excel, Power BI, and Tableau. Skilled in data cleaning, ETL, and building interactive dashboards to deliver actionable business insights and support data-driven decision-making.
 - Open to freelance projects, remote opportunities, and collaborations.
 
 
